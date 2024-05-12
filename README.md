@@ -1,6 +1,6 @@
 # 
 <p align="center">
- <img src="https://github.com/0x77ff/the-simple-stealer/blob/main/icon.png" />
+ <img src="https://github.com/0x77ff/the-simple-stealer/blob/main/icon.png" width="600" height="600" />
 
 <div align="center">
   <h1>Simple-Stealer 1.3.1</h1>
